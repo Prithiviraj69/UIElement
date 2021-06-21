@@ -2,6 +2,7 @@
 # Registration Form
 ## _An iOS Application For Register User With Some Fields_
 
+
 ## Features
 - User Freiendly
 - animated page 
@@ -48,13 +49,13 @@
 ## SnapShots
 ##### Page 1
 ![1](https://user-images.githubusercontent.com/85940424/122804432-896e8f00-d2e5-11eb-868a-12687c39cd69.png)
-
+##### Page 2
 ![2](https://user-images.githubusercontent.com/85940424/122804564-b15df280-d2e5-11eb-9387-d391a66ca5b6.png)
-
+##### Page 3
 ![3](https://user-images.githubusercontent.com/85940424/122804586-b6bb3d00-d2e5-11eb-837f-5d17b18afc9d.png)
-
+##### Page 4
 ![4](https://user-images.githubusercontent.com/85940424/122804599-bc188780-d2e5-11eb-92c0-b16d3bbdf8cb.png)
-
+##### Page 5
 ![5](https://user-images.githubusercontent.com/85940424/122804618-c20e6880-d2e5-11eb-8751-9a49ff5e466e.png)
 
 
