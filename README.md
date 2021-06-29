@@ -39,13 +39,9 @@
 - Nice Page Controller 
 - The SegmentControl For Choose Gender
 - Date Picker is FOr the Choose BornDate OF User
-- PickerView Helps For Selecting Country Which You Belong
-- You can Choose Your Experince level using Stepper
-- Nice ToolBar Or Tabbar In Last Page 
-- In toolbar We have Options like Camera Or gallary Which using User Pick the Profile
-- ImageView Show The profile Image Which You Choose
-- Nice ActivityIndicatorView
-- For Accepting Terms And Condition there are options
+- PickerView Helps For Selecting State Which You Belong
+- You can rate us our cafe
+
 
 ## SnapShots
 ##### Page 1
